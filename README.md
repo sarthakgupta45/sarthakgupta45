@@ -21,7 +21,7 @@
 ---
 
 ### 🛠️ Tech Toolbox  
-💻 **Languages:** C++, Python, R  
+💻 **Languages:** C++, Python, 
 📊 **Data Tools:** Pandas, NumPy, Matplotlib, Scikit-Learn  
 🗄️ **Databases:** SQL  
 ⚙️ **Other Stuff:** Git, GitHub, VS Code, Jupyter  
