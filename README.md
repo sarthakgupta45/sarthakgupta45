@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="92e60f0b442860324b155fe025b2d1eb.mp4" alt="Banner GIF" width="100%" />
-</p>
 
 # 👋 Hi, I'm Sarthak Gupta  
 
