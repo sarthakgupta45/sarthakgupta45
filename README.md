@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="gif.gif" alt="Banner GIF" width="800px" height="200px" />
+</p>
 # 👋 Hi, I'm Sarthak Gupta  
 
 💻 Aspiring Data Scientist | Machine Learning Enthusiast | Problem Solver  
