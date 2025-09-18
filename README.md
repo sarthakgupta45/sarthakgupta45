@@ -35,13 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarthakGupta&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakGupta&layout=compact&theme=radical" height="180px"/>
-</p>
 
----
 
 ### 🔥 Streaks  
 <p align="center">
