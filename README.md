@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="giphy.webp" alt="Banner GIF" width="100%" />
+</p>
+
 # 👋 Hi, I'm Sarthak Gupta  
 
 💻 Aspiring Data Scientist | Machine Learning Enthusiast | Problem Solver  
