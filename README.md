@@ -1,23 +1,32 @@
 <p align="center">
   <img src="gif.gif" alt="Banner GIF" width="600px" height="500px" />
 </p>
-# 👋 Hi, I'm Sarthak Gupta  
+# 👋 Hey, I'm Sarthak Gupta  
 
-💻 Aspiring Data Scientist | Machine Learning Enthusiast | Problem Solver  
+🚀 **Aspiring Data Scientist** | 🤖 **ML Explorer** | 🧩 **Problem Solver**  
 
-🌱 Currently learning:  
-- Machine Learning & Data Science (GeeksforGeeks)  
-- Advanced C++ & DSA concepts  
+---
 
-🛠️ Tech Stack:  
-- C++, Python, R  
-- Pandas, NumPy, Matplotlib, Scikit-Learn  
-- SQL, Git/GitHub  
+### 🌟 About Me  
+- 🔭 Diving into **Machine Learning & Data Science** (GeeksforGeeks)  
+- 💡 Curious about **algorithms, AI, and data-driven decisions**  
+- 🎯 Goal: Turn **raw data → real insights**  
+- ⚡ Fun fact: I get bored with boring work… so I make it interesting!  
 
-📫 Connect with me:  
-- [LinkedIn](https://www.linkedin.c)
+---
 
+### 🛠️ Tech Toolbox  
+💻 **Languages:** C++, Python, R  
+📊 **Data Tools:** Pandas, NumPy, Matplotlib, Scikit-Learn  
+🗄️ **Databases:** SQL  
+⚙️ **Other Stuff:** Git, GitHub, VS Code, Jupyter  
 
+---
 
+### 🌐 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
- 
+---
+
+✨ *"Learning never exhausts the mind."*  
