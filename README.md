@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif.gif" alt="Banner GIF" width="450px" height="399px" />
+  <img src="gif.gif" alt="Banner GIF" width="600px" height="500px" />
 </p>
 # 👋 Hi, I'm Sarthak Gupta  
 
