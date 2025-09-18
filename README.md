@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech Toolbox  
-💻 **Languages:** C++, Python, R  
+💻 **Languages:** C++, Python,  
 📊 **Data Tools:** Pandas, NumPy, Matplotlib, Scikit-Learn  
 🗄️ **Databases:** SQL  
 ⚙️ **Other Stuff:** Git, GitHub, VS Code, Jupyter  
@@ -24,7 +24,7 @@
 ---
 
 ### 🌐 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta-05a3962a0/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakgupta3729@gmail.com)  
 
 ---
