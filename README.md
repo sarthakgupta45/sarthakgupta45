@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="giphy.webp" alt="Banner GIF" width="100%" />
+  <img src="giphy.webp" alt="Banner GIF" width="1%" />
 </p>
 
 # 👋 Hi, I'm Sarthak Gupta  
